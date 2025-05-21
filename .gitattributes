@@ -1,0 +1,7 @@
+
+# Always use LF for all text files
+# * text=auto eol=lf
+
+
+# Normalize line endings to CRLF
+* text=auto eol=crlf
